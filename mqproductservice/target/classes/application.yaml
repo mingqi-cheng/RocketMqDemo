@@ -1,0 +1,24 @@
+server:
+  port: 8082
+rocketmq:
+  name-server: 8.142.81.64:9876
+  producer:
+    #组名
+    group: anran-producer-group
+    #目的地（topic:tag）
+    #topic
+    topic: broadcast-topic
+    topic2: p2p-topic
+    #sync tag(同步消息tag)
+    sync-tag: anran-sync-tags
+    #async tag(异步消息tag)
+    async-tag: anran-async-tags
+    #oneway tag(单向消息tag)
+    oneway-tag: anran-oneway-tags
+
+logging:
+  file:
+    path: /usr/log/mqproductservice/mqproductservice.log
+  level:
+    root: INFO
+    com.anran.projectmanage.mapper: DEBUG

@@ -1,0 +1,24 @@
+server:
+  port: 8085
+
+#rocketmq配置信息
+rocketmq:
+  #nameservice服务器地址（多个以英文逗号隔开）
+  name-server: 8.142.81.64:9876
+  #消费者配置
+  consumer:
+    #组名
+    group: anran-consumer-group
+    group2: anran-consumer-group2
+    #监听主题
+    topic: broadcast-topic
+    topic2: p2p-topic
+    #tags（监听多个tag时使用 || 进行分割，如果监听所有使用*或者不填）
+    tags: anran-sync-tags||anran-async-tags||anran-oneway-tags
+
+logging:
+  file:
+    path: /usr/log/mqconsumerservice/mqconsumerservice.log
+  level:
+    root: INFO
+    com.anran.projectmanage.mapper: DEBUG

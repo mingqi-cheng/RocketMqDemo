@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75ff536c-316d-4ecb-a4bc-998f1f373339" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../..//BaiduNetdiskDownload/netty/netty-demo-练习初始代码/netty-demo/src/main/java/cn/itcast/server/handler/ChatRequestMessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//BaiduNetdiskDownload/netty/netty-demo-练习初始代码/netty-demo/src/main/java/cn/itcast/server/service/ServicesFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/DubboDemo/consumer-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/DubboDemo/consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/DubboDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/DubboDemo/producer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/DubboDemo/producer/src/main/java/com/cmq/service/workServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/DubboDemo/producer/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/RocketMQDemo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/RocketMQDemo/mqconsumerservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/RocketMQDemo/mqconsumerservice2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/RocketMQDemo/mqconsumerservice3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/RocketMQDemo/mqproductservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/RocketMQDemo/mqproductservice/src/main/java/org/example/controller/MqMessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/RocketMQDemo/mqproductservice/src/main/resources/META-INF.spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/dubbo/consumer-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/dubbo/consumer-service/src/main/java/org/example/service/Producer2Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/dubbo/consumer-service/src/main/java/org/example/service/ProducerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/dubbo/consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/dubbo/consumer/src/main/java/org/example/consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/dubbo/producer-2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/dubbo/producer-2/src/main/java/org/example/Producer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/dubbo/producer-2/src/main/java/org/example/mapper/Producer2Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/dubbo/producer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/dubbo/producer/src/main/java/org/example/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/gameDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/gameDemo/src/main/java/com/cmq/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/gameDemo/src/main/java/com/cmq/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/gameDemo/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/my-security/src/main/java/cn/cmq/SecApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/untitled21/src/test/java/org/example/netty/c0706/TestSlice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/untitled21/src/test/java/org/example/netty/d612/ClientServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/untitled21/src/test/java/org/example/netty/test/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/webSocketChar/src/main/java/com/cmq/controller/userController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//idea/webSocketChar/src/main/java/com/cmq/pojo/ResulMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//idea/untitled21/src/test/java/org/example/netty/test/NettyServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//idea/work/commodity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/commodity/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//idea/work/commodity/src/main/java/com/cmq/controller/CommodityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/commodity/src/main/java/com/cmq/controller/CommodityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//idea/work/feign-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/feign-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//idea/work/gate-way/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/gate-way/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//idea/work/gate-way/src/main/java/com/cmq/conterllor/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/gate-way/src/main/java/com/cmq/conterllor/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//idea/work/order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//idea/work/order/src/main/java/com/cmq/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/order/src/main/java/com/cmq/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//idea/work/phhone-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/phhone-user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../..//idea/work/user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2WhMt3mx4WUm45h7wuO51EZT97g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/idea/RocketMQDemo/mqconsumerservice3/src/main/resources",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "79afbf9758131a2e56dab48514e2346a"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\RocketMQDemo\mqconsumerservice3\src\main\resources" />
+      <recent name="D:\idea\RocketMQDemo\mqconsumerservice2\src\main\resources" />
+      <recent name="D:\idea\RocketMQDemo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main (3)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="mqconsumerservice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="RocketMQDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="RocketMQDemo" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mqconsumerservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mqconsumerservice2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mqconsumerservice3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mqproductservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="Spring Boot.Main (3)" />
+        <item itemvalue="Spring Boot.Main (1)" />
+        <item itemvalue="Spring Boot.Main (2)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75ff536c-316d-4ecb-a4bc-998f1f373339" name="Changes" comment="" />
+      <created>1697180571000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697180571000</updated>
+      <workItem from="1697180572422" duration="136000" />
+      <workItem from="1697180745649" duration="54000" />
+      <workItem from="1697180818133" duration="292000" />
+      <workItem from="1697181121307" duration="4802000" />
+      <workItem from="1697190178916" duration="196000" />
+      <workItem from="1697190388413" duration="59000" />
+      <workItem from="1697190470515" duration="59000" />
+      <workItem from="1697190540466" duration="12095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
