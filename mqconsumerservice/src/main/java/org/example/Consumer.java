@@ -1,6 +1,7 @@
 package org.example;
 
 import lombok.extern.slf4j.Slf4j;
+import org.apache.rocketmq.common.message.MessageExt;
 import org.apache.rocketmq.spring.annotation.ConsumeMode;
 import org.apache.rocketmq.spring.annotation.MessageModel;
 import org.apache.rocketmq.spring.annotation.RocketMQMessageListener;
@@ -23,10 +24,16 @@ import org.springframework.stereotype.Component;
         selectorExpression = "${rocketmq.consumer.tags}", messageModel = MessageModel.BROADCASTING)
 
 @Slf4j
-public class Consumer implements RocketMQListener<String> {
+public class Consumer implements RocketMQListener<MessageExt > {
     @Override
-    public void onMessage(String message) {
-        System.out.println(message);
+    public void onMessage(MessageExt messageExt) {
+        String keys = messageExt.getKeys();
+        // 处理消息
+        String message = new String(messageExt.getBody());
+        System.out.println("Received message with KEYS: " + keys);
+        System.out.println("Message content: " + message);
+
+        // 在这里可以根据KEYS和消息内容进行相应的处理
     }
 
 }

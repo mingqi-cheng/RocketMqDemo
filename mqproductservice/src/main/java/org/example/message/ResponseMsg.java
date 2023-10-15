@@ -1,8 +1,10 @@
 package org.example.message;
 
 import lombok.Data;
+import lombok.experimental.Accessors;
 
 @Data
+@Accessors(chain = true)
 public class ResponseMsg {
     public static final int CODE_FAIL = 500;
 
@@ -23,9 +25,10 @@ public class ResponseMsg {
         this.msg = MSG_FAIL;
     }
 
-    public void setSuccessData(Object data) {
+    public ResponseMsg setSuccessData(Object data) {
         this.code = CODE_SUCCESS;
         this.msg = MSG_SUCCESS;
         this.data = data;
+        return this;
     }
 }

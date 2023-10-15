@@ -40,6 +40,21 @@
       <change afterPath="$PROJECT_DIR$/../..//idea/untitled21/src/test/java/org/example/netty/test/ChatServer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../..//idea/webSocketChar/src/main/java/com/cmq/controller/userController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../..//idea/webSocketChar/src/main/java/com/cmq/pojo/ResulMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqconsumerservice/src/main/resources/META-INF.spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqconsumerservice2/src/main/resources/META-INF.spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqconsumerservice3/src/main/resources/META-INF.spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/Test/MessageConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/Test/MessageConsumerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/Test/MessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/Test/MessageQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/listener/SendCallbackListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/listener/TransactionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/mapper/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/server/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/test/java/AsyncServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/test/java/ReactorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mqproductservice/src/test/java/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../..//idea/untitled21/src/test/java/org/example/netty/test/NettyServer.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../..//idea/work/commodity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/commodity/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../..//idea/work/commodity/src/main/java/com/cmq/controller/CommodityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/commodity/src/main/java/com/cmq/controller/CommodityController.java" afterDir="false" />
@@ -50,7 +65,23 @@
       <change beforePath="$PROJECT_DIR$/../..//idea/work/order/src/main/java/com/cmq/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/order/src/main/java/com/cmq/controller/OrderController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../..//idea/work/phhone-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/phhone-user/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../..//idea/work/user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../..//idea/work/user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqconsumerservice/src/main/java/org/example/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/mqconsumerservice/src/main/java/org/example/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqconsumerservice/target/classes/org/example/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/mqconsumerservice/target/classes/org/example/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqproductservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mqproductservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/controller/MqMessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/controller/MqMessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/message/ResponseMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/mqproductservice/src/main/java/org/example/message/ResponseMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqproductservice/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mqproductservice/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqproductservice/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mqproductservice/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqproductservice/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/mqproductservice/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqproductservice/target/classes/org/example/controller/MqMessageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/mqproductservice/target/classes/org/example/controller/MqMessageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mqproductservice/target/classes/org/example/message/ResponseMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/mqproductservice/target/classes/org/example/message/ResponseMsg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +96,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -85,29 +116,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/idea/RocketMQDemo/mqconsumerservice3/src/main/resources",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "79afbf9758131a2e56dab48514e2346a"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/idea/RocketMQDemo/mqconsumerservice2/src/main/resources&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;44ba9936e8380d5638c20d5027e4ae14&quot;
   }
-}]]></component>
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.Test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\idea\RocketMQDemo\mqconsumerservice3\src\main\resources" />
       <recent name="D:\idea\RocketMQDemo\mqconsumerservice2\src\main\resources" />
+      <recent name="D:\idea\RocketMQDemo\mqconsumerservice\src\main\resources" />
+      <recent name="D:\idea\RocketMQDemo\mqconsumerservice3\src\main\resources" />
       <recent name="D:\idea\RocketMQDemo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -121,16 +159,24 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Main (3)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="mqconsumerservice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Spring Boot.Main">
+    <configuration name="FlowDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlowDemo2" />
+      <module name="mqproductservice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactorDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReactorDemo" />
+      <module name="mqproductservice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReactorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReactorDemo" />
+      <module name="mqproductservice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,32 +207,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="mqconsumerservice2" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="mqconsumerservice3" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="mqproductservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
@@ -203,10 +223,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.Main" />
-        <item itemvalue="Spring Boot.Main (3)" />
         <item itemvalue="Spring Boot.Main (1)" />
-        <item itemvalue="Spring Boot.Main (2)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ReactorDemo" />
+        <item itemvalue="Application.ReactorDemo (1)" />
+        <item itemvalue="Application.FlowDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +245,15 @@
       <workItem from="1697190178916" duration="196000" />
       <workItem from="1697190388413" duration="59000" />
       <workItem from="1697190470515" duration="59000" />
-      <workItem from="1697190540466" duration="12095000" />
+      <workItem from="1697190540466" duration="13414000" />
+      <workItem from="1697208504721" duration="340000" />
+      <workItem from="1697255827000" duration="184000" />
+      <workItem from="1697261585893" duration="146000" />
+      <workItem from="1697291795207" duration="973000" />
+      <workItem from="1697295097432" duration="2950000" />
+      <workItem from="1697363922561" duration="4822000" />
+      <workItem from="1697374569087" duration="1306000" />
+      <workItem from="1697376552211" duration="3502000" />
     </task>
     <servers />
   </component>

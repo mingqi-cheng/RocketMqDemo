@@ -22,3 +22,13 @@ logging:
   level:
     root: INFO
     com.anran.projectmanage.mapper: DEBUG
+spring:
+  r2dbc:
+    url: r2dbc:mysql://localhost/webflux_user?useUnicode=true&characterEncoding=UTF-8&serverZoneId=Asia/Shanghai
+    username: root
+    password: root
+    pool:
+      enabled: true
+      max-size: 10
+      initial-size: 10
+      validation-query: select 1

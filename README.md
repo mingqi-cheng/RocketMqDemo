@@ -47,3 +47,6 @@ docker run -d --restart=always --name rmqadmin -e "JAVA_OPTS=-Drocketmq.namesrv.
  name-server: 8.142.81.64:9876 为rocketmq主机IP
 ```
 5. 运行服务
+
+### 有添加异步服务 还写了一个基于springboot类似MQ的test的测试
+
